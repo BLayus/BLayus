@@ -22,7 +22,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLayus&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=BLayus)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=BLayus)](https://github.com/BLayus/Rental-Prices-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=BLayus)](https://github.com/BLayus/Case_Fraude)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=BLayus)](https://github.com/BLayus/Churn-Case)
+
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLayus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Meet my work on other networks
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/brunolayus/)
