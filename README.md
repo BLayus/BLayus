@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Data Analysis</h3>
 
 ### Olá, meu nome é Bruno Layus 👋
-### Sou Cientista de Dados e Analista de Dados. Desenvolvo trabalhos utilizando principalmente Python, SQL Excel / Google Sheets e softwares de BI, como Power BI e Tableau. Utilizo Ferramentas de análise e visualização de dados, estatística descritiva e preditiva, Machine Learnig e sistemas de Inteligência Artificial.
+### Sou Cientista de Dados e Analista de Dados. Desenvolvo trabalhos utilizando principalmente Python, SQL, Excel / Google Sheets e softwares de BI, como Power BI e Tableau. Utilizo Ferramentas de análise e visualização de dados, estatística descritiva e preditiva, Machine Learnig e sistemas de Inteligência Artificial.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,9 +22,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLayus&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão de Preços de Aluguel por Temporada &show_icons=true&theme=darcula)](https://github.com/BLayus/Rental-Prices-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão de Fraude em Transações com Cartão de Crédito&show_icons=true&theme=darcula)](https://github.com/BLayus/Case_Fraude)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão de Churn Utilizando Dados de Companhia Telefônica&show_icons=true&theme=darcula)](https://github.com/BLayus/Churn-Case)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão-de-Preços-de-Aluguel-por-Temporada&show_icons=true&theme=darcula)](https://github.com/BLayus/Rental-Prices-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão-de-Fraude-em-Transações-com-Cartão-de-Crédito&show_icons=true&theme=darcula)](https://github.com/BLayus/Case_Fraude)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Previsão-de-Churn-Utilizando-Dados-de-Companhia-Telefônica&show_icons=true&theme=darcula)](https://github.com/BLayus/Churn-Case)
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLayus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
