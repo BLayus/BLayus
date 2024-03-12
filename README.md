@@ -22,9 +22,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLayus&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Rental-Prices-Prediction&show_icons=true&theme=darcula)](https://github.com/BLayus/Rental-Prices-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Case_Fraude&show_icons=true&theme=darcula)](https://github.com/BLayus/Case_Fraude)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Churn-Case&show_icons=true&theme=darcula)](https://github.com/BLayus/Churn-Case)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Rental-Prices-Prediction&show_icons=true&theme=darcula&height='60')](https://github.com/BLayus/Rental-Prices-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Case_Fraude&show_icons=true&theme=darcula&height='60')](https://github.com/BLayus/Case_Fraude)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BLayus&repo=Churn-Case&show_icons=true&theme=darcula&height='60')](https://github.com/BLayus/Churn-Case)
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLayus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
